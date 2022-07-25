@@ -15,6 +15,12 @@ The Esports Analytics workshop will be held on October 24-25, as part of the [AI
 
 EHPHCI seeks contributions addressing challenges and applications of esports technology including: 
 
+- _Esports Agents:_ AI agents are a staple of esports research and development, whether intended as training partners or trained to play the game themselves. Advancing the state of the art can help these agents work more effectively as tools for training or playtesting.
+
+- _Ethics and Transparency in Esports Data:_ As data-driven tools and AI for esports expand and advance, questions of ethical and transparent use of data have emerged. Balancing what is needed to advance technology and the games themselves with what players will or are comfortable sharing is an open question.
+
+- _Esports Assistants:_ Esports suffer from steep learning curves. To address this, data-driven assistants randing from AI to data visualization systems have been developed to help players improve more effectively.
+
 - _Low Latency Systems:_ As in most sports, quick response times are a fundamental advantage in esports. Maximizing this advantage requires low-latency interactive software and hardware, with tightly integrated input, rendering and display components.
 
 - _Expertise and Training:_ Effective training and team building/composition methodologies are still emerging in esports. Innovations in esports science help athletes train more effectively, with contributions from sports science, medicine and psychology. Technical opportunities include deeply instrumented assessments, analytics and biometrics, AI training partners, and specialized training interfaces.
