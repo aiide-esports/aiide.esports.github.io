@@ -4,11 +4,11 @@
 
 Competitive esports is a growing worldwide phenomenon now rivaling traditional sports, with over 450 million views and 1 billion US dollars in revenue each year. For comparison, Major League Baseball has 500 million views and $10 billion in revenue, FIFA Soccer 900 million and $1.6 billion. Despite this significant popularity, much of the world remains unaware of esports — and in particular, research on and for esports is still extremely scarce compared to esports’ impact and potential.
 
-The Esports and High Performance HCI (EHPHCI) workshop will begin addressing that research gap. In esports, athletes compete through the computer interface. Because this interface can make the difference between winning and losing, esports athletes are among the most expert computer interface users in the world, as other athletes are experts in using balls and shoes in traditional sports. The premise of this workshop is that people will apply esports technology broadly, improving performance in a wide range of human activity. The workshop will gather experts in engineering, human factors, psychology, design and the social and health sciences to discuss this deeply multidisciplinary enterprise.
+The Esports Analytics Workshop will begin addressing that research gap. In esports, athletes compete and spectators view in a fully digital arena. This makes esports a unique opportunity for rich analysis of both expert computer users, and passionate online viewers. The knowledge gained from this analysis should apply broadly, improving active performance and more passive experience in a wide range of human activity. The workshop will gather experts in engineering, human factors, psychology, design and the social and health sciences to discuss this deeply multidisciplinary enterprise.
 
 ## WORKSHOP DATE AND ONLINE ACCESS
 
-The EHPHCI workshop will be held online on Saturday May 8, as part of the [ACM CHI Conference](https://chi2021.acm.org/). The workshop's times and access details will appear soon. The cost for authors and attendees is $30, plus the cost of at least a one day [registration for ACM CHI](https://chi2021.acm.org/information/4702.html) ($100 for early members).
+The Esports Analytics workshop will be held on October 24-25, as part of the [AIII AIIDE Conference](https://sites.google.com/view/aiide-2022/workshops). The workshop's exact date and time will appear soon. The cost for authors and attendees is $30, plus the cost of at least a one day [registration for ACM CHI](https://chi2021.acm.org/information/4702.html) ($100 for early members).
 
 
 ## WORKSHOP TOPICS
@@ -85,16 +85,6 @@ The quickest way to contact EHPHCI's organizers is via their shared email, <ehph
 
 [Benjamin Watson](https:/watson.csc.ncsu.edu), North Carolina State University (<bwatson@ncsu.edu>)
 
-[Josef Spjut](http://josef.spjut.me/), NVIDIA Research (<jspjut@nvidia.com>)
+Erica Klein
 
-[Joohwan Kim](https://research.nvidia.com/person/joohwan-kim), NVIDIA Research (<sckim@nvidia.com>)
-
-[Jennifer Listman](https://www.linkedin.com/in/jenniferlistman/), Statespace Labs (<jenny@statespacelabs.com>)
-
-[Sunjun Kim](https://kuaa.net/), DGIST (<sunjun_kim@dgist.ac.kr>)
-
-[Raphael Wimmer](https://hci.ur.de/people/raphael_wimmer), University of Regensburg (<raphael.wimmer@ur.de>)
-
-[David Putrino](https://www.putrinolab.net/about), Mt Sinai Health System (<david.putrino@mountsinai.org>)
-
-[Byungjoo Lee](http://leebyungjoo.com/), KAIST (<byungjoo.lee@kaist.ac.kr>)
+Others...
