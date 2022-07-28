@@ -39,56 +39,48 @@ We invite contributions from the esports industry, as well as a range of researc
 
 ## SUBMISSIONS
 
-The Esports Analytic Workshop has three submission tracks: research papers, practitioner papers, and software demos. All accepted submissions will be presented orally at the workshop, published archivally, and may optionally be lengthened before publication.
+The Esports Analytic Workshop is currently accepting submissions as 1-2 page extended abstracts (with optional videos) receiving summary reviews. It has three submission tracks: research papers, practitioner papers, and software demos. All accepted submissions will be presented orally at the workshop, and published by [CEUR](http://ceur-ws.org/). Accepted research papers may optionally be lengthened with further editorial review before publication.
 
 ### Short Research Papers
 
-Research papers between 2 and 4 pages long, with length matching content. Research papers will be reviewed based on relevance to the esports community, and how well claims are supported by evidence. 
+Research papers will be reviewed based on relevance to the esports community, and how well claims are supported by evidence. After acceptance, they may optionally enter an extended review process with detailed reviews, and be lengthened up to 6 pages. 
 
 ### Short Practitioner Papers
 
-Short 1- to 2-page articles by game developers, artists, and other practitioners on artificial intelligence and analytics in esports. Ideally, these will also use the AAAI format. 
+Practitioner papers are articles by athletes, game developers, artists, and other practitioners addressing artificial intelligence and analytics in esports. They will be judged primarily based on relevance to the esports community, and the likelihood that they will generate discussion.
 
-### Short Case Study Papers
+### Software Demos
 
-We invite submission of position papers between 2 and 4 pages long, with length matching content. Case study papers describe applications of esports and high performance HCI technology. Case study papers will be selected by their match to workshop themes, and their likelihood to generate discussion.
-
-### Posters
-
-We invite both late-breaking work and contributions in this area in the form of extended abstracts 1 to 2 pages in length (plus an additional page for references).
+Proposed software demos must be described in a written and (optional but encouraged) video form. We welcome works-in-progress, finished projects, and prototypes.
 
 ### Formatting and Submitting
 
-Your paper, abstract or write-up should be formatted in AAAI two-column, camera-ready style (use the AAAI Press Author Kit available on the AIIDE website). Submit a PDF of your file to the email listed below.
+Submissions for all three tracks should include a 1-2 page extended abstract, formatted as a PDF file using a 12-point font. Any accompanying videos should be 5 minutes or shorter in length, and uploaded to a publicly accessable website. Our review process is single-blind; please include author names.
 
-**All submissions should be blinded for review**. If applicable, a short video (up to 5 min. in length) may also be submitted. Submissions will be juried by the organizers. At least one author of each accepted submission must register for the conference (even if only for the workshop). Registration information is available on the AIIDE website.
-
-SUBMIT VIA EMAIL TO THIS ADDRESS: <ehphci-submissions@googlegroups.com>. 
+SUBMIT VIA EMAIL TO THIS ADDRESS: <esportsanalytics-submissions@googlegroups.com>. Attach your PDF to the email, and include the URL of any video in the email text.
 
 ### Accepted Submissions
 
-All accepted submissions will be published using links from the workshop website. 
+At least one author of each accepted submission must register for the workshop at the [AIIDE website](https://sites.google.com/view/aiide-2022/registration). Titles and authors of all accepted submissions will be published on the workshop website, and all extended abstracts will be published through [CEUR](http://ceur-ws.org/). Authors of accepted research papers will have the option of extending their submissions up to 6 pages in length before publication, with those lengthened submissions receiving further and more detailed review before publication at CEUR. 
 
 ## IMPORTANT DATES
 
 _Deadlines are at 11:59 PM in the [last timezone on Earth](https://www.google.com/search?q=time+in+baker+island)_
 
-Submission deadline: ~~January 31~~ February 24
+Submission deadline: August 10
 
-Notification: ~~February 21~~ March 17
+Notification: August 22
 
-Camera-ready deadline: ~~April 1~~ April 7
+Camera-ready deadline: TBD
 
-Speaker schedule available: ~~April 1~~ April 7
+Speaker schedule available: TBD
 
-Workshop: May 8
+Workshop: October 24-25, 2022
 
 ## ORGANIZERS
 
-The quickest way to contact EHPHCI's organizers is via their shared email, <ehphci@googlegroups.com>. To stay connected to the workshop and its community, [join its google group](mailto:ehphci-list+subscribe@googlegroups.com).
+The quickest way to contact the Esports Analytics Workshops's organizers is via their shared email, <esportseanalytics-organizers@googlegroups.com>. To stay connected to the workshop and its community, send an email to the organizers, they will add you to the workshop's email list.
 
 [Benjamin Watson](https:/watson.csc.ncsu.edu), North Carolina State University (<bwatson@ncsu.edu>)
 
-Erica Klein
-
-Others...
+[Erica Kleinman](http://erimedia.us/), UC Santa Cruz (<emkleinm@ucsc.edu>)
