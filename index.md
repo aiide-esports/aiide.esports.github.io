@@ -39,7 +39,7 @@ We invite contributions from the esports industry, as well as a range of researc
 
 ## SUBMISSIONS
 
-The Esports Analytic Workshop is currently accepting submissions as 1-2 page extended abstracts (with optional videos) receiving summary reviews. It has three submission tracks: research papers, practitioner papers, and software demos. All accepted submissions will be presented orally at the workshop, and published by [CEUR](http://ceur-ws.org/). Accepted research papers may optionally be lengthened with further editorial review before publication.
+The Esports Analytic Workshop is currently accepting submissions as 1-2 page extended abstracts (with optional videos) receiving summary reviews. It has three submission tracks: research papers, practitioner papers, and software demos. All accepted submissions will be presented orally at the workshop, and published non-archivally at [CEUR](http://ceur-ws.org/). Accepted research papers may optionally be lengthened with further editorial review before publication.
 
 ### Short Research Papers
 
@@ -61,7 +61,7 @@ SUBMIT VIA EMAIL TO THIS ADDRESS: <esportsanalytics-submissions@googlegroups.com
 
 ### Accepted Submissions
 
-At least one author of each accepted submission must register for the workshop at the [AIIDE website](https://sites.google.com/view/aiide-2022/registration). Titles and authors of all accepted submissions will be published on the workshop website, and all extended abstracts will be published through [CEUR](http://ceur-ws.org/). Authors of accepted research papers will have the option of extending their submissions up to 6 pages in length before publication, with those lengthened submissions receiving further and more detailed review before publication at CEUR. 
+At least one author of each accepted submission must register for the workshop at the [AIIDE website](https://sites.google.com/view/aiide-2022/registration). Titles and authors of all accepted submissions will be published on the workshop website, and all extended abstracts will be published non-archivally through [CEUR](http://ceur-ws.org/). Authors of accepted research papers will have the option of extending their submissions up to 6 pages in length before publication, with those lengthened submissions receiving further and more detailed review before publication at CEUR. 
 
 ## IMPORTANT DATES
 
