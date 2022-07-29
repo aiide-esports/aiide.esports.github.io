@@ -84,3 +84,7 @@ The quickest way to contact the Esports Analytics Workshops's organizers is via 
 [Benjamin Watson](https://watson.csc.ncsu.edu), North Carolina State University (<bwatson@ncsu.edu>)
 
 [Erica Kleinman](http://erimedia.us/), UC Santa Cruz (<emkleinm@ucsc.edu>)
+
+## PROGRAM COMMITTEE
+
+[Justus Robertson](https://www.justusrobertson.com/), Kennesaw State University (<justus.robertson@kennesaw.edu>)
