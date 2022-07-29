@@ -81,6 +81,6 @@ Workshop: October 24-25, 2022
 
 The quickest way to contact the Esports Analytics Workshops's organizers is via their shared email, <esportseanalytics-organizers@googlegroups.com>. To stay connected to the workshop and its community, send an email to the organizers, they will add you to the workshop's email list.
 
-[Benjamin Watson](https:/watson.csc.ncsu.edu), North Carolina State University (<bwatson@ncsu.edu>)
+[Benjamin Watson](https://watson.csc.ncsu.edu), North Carolina State University (<bwatson@ncsu.edu>)
 
 [Erica Kleinman](http://erimedia.us/), UC Santa Cruz (<emkleinm@ucsc.edu>)
