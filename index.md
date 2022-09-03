@@ -43,7 +43,7 @@ The Esports Analytic Workshop is currently accepting submissions as 1-2 page ext
 
 ### Short Research Papers
 
-Research papers will be reviewed based on relevance to the esports community, and how well claims are supported by evidence. After acceptance, they may optionally enter an extended review process with detailed reviews, and be lengthened up to 6 pages. 
+Research papers will be reviewed based on relevance to the esports community, and how well claims are supported by evidence.
 
 ### Short Practitioner Papers
 
