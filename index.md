@@ -8,7 +8,7 @@ The Esports Analytics Workshop will address that research gap. In esports, athle
 
 ## WORKSHOP DATE AND REGISTRATION
 
-The Esports Analytics Workshop will be held on October 25, as part of the [AAAI AIIDE Conference](https://sites.google.com/view/aiide-2022/program/workshops). The workshop's exact date and time will appear soon. Those who do not regularly attend the full AIIDE conference can register for workshops only.
+The Esports Analytics Workshop will be held on October 25, as part of the [AAAI AIIDE Conference](https://sites.google.com/view/aiide-2022/program/workshops). Those who do not regularly attend the full AIIDE conference can [register for workshops only](https://sites.google.com/view/aiide-2022/registration).
 
 
 ## WORKSHOP TOPICS
